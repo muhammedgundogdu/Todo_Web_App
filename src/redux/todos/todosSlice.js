@@ -50,7 +50,7 @@ export const todosSlice = createSlice({
     activeFilter: "all",
     isLoading: false,
     error: null,
-    addNewTodod: {
+    addNewTodo: {
       isLoading: false,
       error: false,
     },
